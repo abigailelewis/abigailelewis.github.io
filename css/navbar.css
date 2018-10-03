@@ -1,0 +1,18 @@
+#navStyle{
+    background: var(--white) !important;
+    font-family: var(--font-one);
+    font-size: 1.3em;
+    color: var(--darkergrey) !important;
+    height: 5em;
+}
+#listStyle{
+    margin-left: 55%;
+}
+#namesize{
+    font-size: 1.5em;
+    margin-left:7%;
+    color: var(--darkergrey);
+}
+#listDetails{
+    color: var(--darkergrey) !important; 
+}
