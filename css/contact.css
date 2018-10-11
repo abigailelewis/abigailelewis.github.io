@@ -1,0 +1,17 @@
+#contact{
+    background: url(../assets/woodwhite.png) no-repeat;
+    background-size: cover;
+    padding-top:20px;
+    padding-bottom: 20px;
+    border: 2px solid var(--black);
+    margin-right: 100px;
+    margin-left: 100px;
+}
+form {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
+#sectionContact {
+    padding-top:80px;
+}

@@ -1,5 +1,40 @@
 #aboutMe{
     font-size: 1.7em;
-    color: black;
+    color: var(--black);
+    text-align: center;
+    font-family: var(--font-one);
+    
+}
 
+#resume{
+    background: url(../assets/yes2.png) no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    
+   
+}
+
+#button{
+    font-family: var(--font-one);
+    font-size: 1.3em;
+
+}
+#aboutMeHeader{
+    font-size: 2em;
+    text-align: center;
+    color: var(--black);
+    font-family: var(--font-one);
+    padding-top: 20px;
+}
+#moreHeader{
+    font-size: 2em;
+    text-align: center;
+    color: var(--black);
+    font-family: var(--font-one);
+    padding-top: 55px;
+}
+.aboutMe {
+    margin-left: 20%;
+    margin-right: 20%;
 }
